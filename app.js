@@ -1,3 +1,3 @@
 const cowsay = require('cowsay');
 
-console.log(cowsay.say({text: 'Hello, world!!!'}));
+console.log(cowsay.say({text: 'Hello, woooorld!!!'}));
